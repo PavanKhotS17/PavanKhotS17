@@ -9,7 +9,6 @@
 - 🤔 I’m looking for help with MERN stack.
 - 💬 Ask me about computer vision & front-end web design.
 - 😄 Pronouns: He/Him/His
-- ⚡ Fun fact: I love wandering with friends and listening 90's songs.
 
 
 ![Pavan's github activity graph](https://activity-graph.herokuapp.com/graph?username=PavanKhotS17&theme=react-dark)
