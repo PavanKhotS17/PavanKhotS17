@@ -9,6 +9,7 @@
 - 🤔 I’m looking for help with MERN stack.
 - 💬 Ask me about computer vision & front-end web design.
 - 😄 Pronouns: He/Him/His
+.
 
 
 ![Pavan's github activity graph](https://activity-graph.herokuapp.com/graph?username=PavanKhotS17&theme=react-dark)
