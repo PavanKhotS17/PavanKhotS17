@@ -29,7 +29,7 @@
 - ***Facial detection based attendace system : An OpenCV Project*** - https://pavankhots17.github.io/Facial_Detection_Based_Attendance_System/ <br> OpenCV system to compile the attendance of employee based on face recognition.
 
 
-- ***Crowd detection to maintain social distancing : An OpenCV Project*** - https://pavankhots17.github.io/Crowd_detection_to_maintain_social_distancing.io/ <br> OpenCV system to detect crowd in public areas and maintains the social distancing by analyzing Live Person Count (LPC) and Overall Person Count (OPC).
+- ***Crowd detection to maintain social distancing : An OpenCV Project*** - https://pavankhots17.github.io/Crowd_detection_to_maintain_social_distancing.io/ <br> OpenCV system to detect crowd in public areas and maintains the social distancing.
 
 
 - ***MyTimetable : A signle web application*** - https://pavankhots17.github.io/timetable.github.io/ <br> Academic Timetable - One of the lab task of subject web technologies.
