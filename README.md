@@ -20,6 +20,8 @@
 
 ## Latest Projects : 
 
+- ***OCR : An android application to extract text from image*** - https://pavankhots17.github.io/OCR/ <br> OCR is an android app developed and designed in Android Studio by using Java and Firebase MLkit.
+
 - ***FixPosture : An AI-based web-app*** - https://pavankhots17.github.io/FixPosture.github.io/ <br> YHack 2022, Hybrid Hackathon held on 8th April 2022 by YHack global community. 
 
 
