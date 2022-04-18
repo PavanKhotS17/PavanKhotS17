@@ -36,7 +36,7 @@
 - ***Crowd detection to maintain social distancing : An OpenCV Project*** - https://pavankhots17.github.io/Crowd_detection_to_maintain_social_distancing.io/ <br> OpenCV system to detect crowd in public areas and maintains the social distancing.
 
 
-- ***MyTimetable : A signle web application*** - https://pavankhots17.github.io/timetable.github.io/ <br> Academic Timetable - One of the lab task of subject web technologies.
+- ***MyTimetable : A single page web application*** - https://pavankhots17.github.io/timetable.github.io/ <br> Academic Timetable - One of the lab task of subject web technologies.
 
 
 - ***CollegeExplorer : A website for 12th passed out students*** - https://pavankhots17.github.io/CollegeExplorer.github.io/ <br> A website containing all the information of engineering institutes under the category of IITs ,IITs and NITs.
