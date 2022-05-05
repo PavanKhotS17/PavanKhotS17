@@ -47,4 +47,8 @@
 
 - ***BrewApps LLC Assignment : A single webpage*** - https://pavankhots17.github.io/BrewAppsLLC-Assignment.io/ <br> BrewApps LLC Internship Assignment. 
 
+
 - ***Even Odd number checker : A single webpage*** - https://pavankhots17.github.io/EvenNumber_OddNumber_Checker.github.io/ <br> Single page web application to check whether number is even or odd.
+
+
+- ***Quiz Window Demo : A single webpage*** - https://pavankhots17.github.io/QuizWindowDemo.github.io/ <br> Single page web application demonstrating Demo of quiz window.
