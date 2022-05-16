@@ -17,7 +17,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PavanKhotS17) &nbsp;&nbsp;&nbsp;&nbsp; <img src= "https://github-readme-stats.vercel.app/api?username=PavanKhotS17&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" >
          
 <a name="projects"></a>
-
+--------------------------------------------------------------------------------------
 ## Latest Projects : 
 
 - ***Drowsy Driver Detection System : An OpenCV Project*** - https://pavankhots17.github.io/Drowsy_Driver_Detection.io/ <br> The system designed with OpenCV and python which can detect the drowsiness of the driver.
