@@ -20,6 +20,8 @@
 <br><br>
 ## Latest Projects : 
 
+- ***QuickO : An android application for instant searching*** - https://pavankhots17.github.io/QuickO/ <br> QuickO is a Java-based Android application that was created using the Android Studio platform. It utilises serpAPI and firebase.
+
 - ***Drowsy Driver Detection System : An OpenCV Project*** - https://pavankhots17.github.io/Drowsy_Driver_Detection.io/ <br> The system designed with OpenCV and python which can detect the drowsiness of the driver.
 
 - ***OCR : An android application to extract text from image*** - https://pavankhots17.github.io/OCR/ <br> OCR is an android app developed and designed in Android Studio by using Java and Firebase MLkit.
