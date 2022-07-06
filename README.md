@@ -20,6 +20,8 @@
 <br><br>
 ## Latest Projects : 
 
+- ***WalletGuard : An expenditure tracking app built in React*** - https://pavankhots17.github.io/WalletGuard/ <br> Wallet Guard is a single page web application for expenditure tracking. It supports voice based command to add expense, income and to cancel the transaction.
+
 - ***GatherTogether : The memory sharing web application*** - https://pavankhots17.github.io/GatherTogether/ <br> Gather Together is a single-page web application built using react, node, and mongodb that allows users to share memories, modify memories, remove memories, and like memories.
 
 - ***CarAudit.com : A streamlit web application*** - https://pavankhots17.github.io/CarAudit/ <br> CarAudit.com is a streamlit web application build in python by using MLR as a ML model.
