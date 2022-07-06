@@ -20,6 +20,8 @@
 <br><br>
 ## Latest Projects : 
 
+- ***GatherTogether : The memory sharing web application*** - https://pavankhots17.github.io/GatherTogether/ <br> Gather Together is a single-page web application built using react, node, and mongodb that allows users to share memories, modify memories, remove memories, and like memories.
+
 - ***CarAudit.com : A streamlit web application*** - https://pavankhots17.github.io/CarAudit/ <br> CarAudit.com is a streamlit web application build in python by using MLR as a ML model.
 
 - ***QuickO : An android application for instant searching*** - https://pavankhots17.github.io/QuickO/ <br> QuickO is a Java-based Android application that was created using the Android Studio platform. It utilises serpAPI and firebase.
