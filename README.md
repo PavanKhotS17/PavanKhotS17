@@ -20,43 +20,75 @@
 <br><br>
 ## Latest Projects : 
 
-- ***WalletGuard : An expenditure tracking app built in React*** - https://pavankhots17.github.io/WalletGuard/ <br> Wallet Guard is a single page web application for expenditure tracking. It supports voice based command to add expense, income and to cancel the transaction.
+- ***WalletGuard : An expenditure tracking app built in React*** <br>
+Wallet Guard is a single page web application for expenditure tracking. It supports voice based command to add expense, income and to cancel the transaction. <br>
+[Visit Project](https://pavankhots17.github.io/WalletGuard/)
 
-- ***GatherTogether : The memory sharing web application*** - https://pavankhots17.github.io/GatherTogether/ <br> Gather Together is a single-page web application built using react, node, and mongodb that allows users to share memories, modify memories, remove memories, and like memories.
+- ***GatherTogether : The memory sharing web application*** <br>
+Gather Together is a single-page web application built using react, node, and mongodb that allows users to share memories, modify memories, remove memories, and like memories. <br>
+[Visit Project](https://pavankhots17.github.io/GatherTogether/)
 
-- ***CarAudit.com : A streamlit web application*** - https://pavankhots17.github.io/CarAudit/ <br> CarAudit.com is a streamlit web application build in python by using MLR as a ML model.
+- ***CarAudit.com : A streamlit web application*** <br> 
+CarAudit.com is a streamlit web application build in python by using MLR as a ML model. <br>
+[Visit Project](https://pavankhots17.github.io/CarAudit/)
 
-- ***QuickO : An android application for instant searching*** - https://pavankhots17.github.io/QuickO/ <br> QuickO is a Java-based Android application that was created using the Android Studio platform. It utilises serpAPI and firebase.
+- ***QuickO : An android application for instant searching*** <br> 
+QuickO is a Java-based Android application that was created using the Android Studio platform. It utilises serpAPI and firebase. <br>
+[Visit Project](https://pavankhots17.github.io/QuickO/)
 
-- ***Drowsy Driver Detection System : An OpenCV Project*** - https://pavankhots17.github.io/Drowsy_Driver_Detection.io/ <br> The system designed with OpenCV and python which can detect the drowsiness of the driver.
+- ***Drowsy Driver Detection System : An OpenCV Project*** <br> 
+The system designed with OpenCV and python which can detect the drowsiness of the driver. <br>
+[Visit Project](https://pavankhots17.github.io/Drowsy_Driver_Detection.io/)
 
-- ***OCR : An android application to extract text from image*** - https://pavankhots17.github.io/OCR/ <br> OCR is an android app developed and designed in Android Studio by using Java and Firebase MLkit.
+- ***OCR : An android application to extract text from image*** <br> 
+OCR is an android app developed and designed in Android Studio by using Java and Firebase MLkit. <br>
+[Visit Project](https://pavankhots17.github.io/OCR/)
 
-- ***FixPosture : An AI-based web-app*** - https://pavankhots17.github.io/FixPosture.github.io/ <br> YHack 2022, Hybrid Hackathon held on 8th April 2022 by YHack global community. 
-
-
-- ***TroubleShooter : A website*** - https://pavankhots17.github.io/TroubleShooter.github.io/ <br> Smart India Hackathon 2022, Frontend-design of website.
-
-
-- ***Facial detection based attendace system : An OpenCV Project*** - https://pavankhots17.github.io/Facial_Detection_Based_Attendance_System/ <br> OpenCV system to compile the attendance of employee based on face recognition.
-
-
-- ***Crowd detection to maintain social distancing : An OpenCV Project*** - https://pavankhots17.github.io/Crowd_detection_to_maintain_social_distancing.io/ <br> OpenCV system to detect crowd in public areas and maintains the social distancing.
-
-
-- ***MyTimetable : A single page web application*** - https://pavankhots17.github.io/timetable.github.io/ <br> Academic Timetable - One of the lab task of subject web technologies.
-
-
-- ***CollegeExplorer : A website for 12th passed out students*** - https://pavankhots17.github.io/CollegeExplorer.github.io/ <br> A website containing all the information of engineering institutes under the category of IITs ,IITs and NITs.
-
-
-- ***Sketch-2-UI : An AI tool integrated with website*** - https://pavankhots17.github.io/Sketch-2-UI.github.io/index.html <br> Sketch-2-UI is an amazing AI tool that can transform any sketch into frontend UI component design.
+- ***FixPosture : An AI-based web-app*** <br> 
+YHack 2022, Hybrid Hackathon held on 8th April 2022 by YHack global community. <br>
+[Visit Project](https://pavankhots17.github.io/FixPosture.github.io/)
 
 
-- ***BrewApps LLC Assignment : A single webpage*** - https://pavankhots17.github.io/BrewAppsLLC-Assignment.io/ <br> BrewApps LLC Internship Assignment. 
+- ***TroubleShooter : A website*** <br> 
+Smart India Hackathon 2022, Frontend-design of website. <br>
+[Visit Project](https://pavankhots17.github.io/TroubleShooter.github.io/)
 
 
-- ***Even Odd number checker : A single webpage*** - https://pavankhots17.github.io/EvenNumber_OddNumber_Checker.github.io/ <br> Single page web application to check whether number is even or odd.
+- ***Facial detection based attendace system : An OpenCV Project*** <br> 
+OpenCV system to compile the attendance of employee based on face recognition. <br>
+[Visit Project](https://pavankhots17.github.io/Facial_Detection_Based_Attendance_System/)
 
 
-- ***Quiz Window Demo : A single webpage*** - https://pavankhots17.github.io/QuizWindowDemo.github.io/ <br> Single page web application demonstrating Demo of quiz window.
+- ***Crowd detection to maintain social distancing : An OpenCV Project*** <br> 
+OpenCV system to detect crowd in public areas and maintains the social distancing. <br>
+[Visit Project](https://pavankhots17.github.io/Crowd_detection_to_maintain_social_distancing.io/)
+
+
+- ***MyTimetable : A single page web application*** <br> 
+Academic Timetable - One of the lab task of subject web technologies. <br>
+[Visit Project](https://pavankhots17.github.io/timetable.github.io/)
+
+
+- ***CollegeExplorer : A website for 12th passed out students*** <br> 
+A website containing all the information of engineering institutes under the category of IITs ,IITs and NITs. <br>
+[Visit Project](https://pavankhots17.github.io/CollegeExplorer.github.io/)
+
+
+- ***Sketch-2-UI : An AI tool integrated with website*** <br> 
+Sketch-2-UI is an amazing AI tool that can transform any sketch into frontend UI component design. <br>
+[Visit Project](https://pavankhots17.github.io/Sketch-2-UI.github.io/index.html)
+
+
+- ***BrewApps LLC Assignment : A single webpage*** <br> 
+BrewApps LLC Internship Assignment. <br>
+[Visit Project](https://pavankhots17.github.io/BrewAppsLLC-Assignment.io/)
+
+
+- ***Even Odd number checker : A single webpage*** <br> 
+Single page web application to check whether number is even or odd. <br>
+[Visit Project](https://pavankhots17.github.io/EvenNumber_OddNumber_Checker.github.io/)
+
+
+- ***Quiz Window Demo : A single webpage*** <br> 
+Single page web application demonstrating Demo of quiz window. <br>
+[Visit Project](https://pavankhots17.github.io/QuizWindowDemo.github.io/)
