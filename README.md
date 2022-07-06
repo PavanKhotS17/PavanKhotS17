@@ -92,3 +92,9 @@ Single page web application to check whether number is even or odd. <br>
 - ***Quiz Window Demo : A single webpage*** <br> 
 Single page web application demonstrating Demo of quiz window. <br>
 [Visit Project](https://pavankhots17.github.io/QuizWindowDemo.github.io/)
+
+## Contact Me
+Pavankumar Khot : 
+[LinkedIn](https://www.linkedin.com/in/pavankumar-khot-91a95b209/) |
+[Github](https://github.com/PavanKhotS17) | 
+[Gmail](mailto:khotpavankumar27@gmail.com)
