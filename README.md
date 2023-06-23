@@ -9,7 +9,7 @@
 - 💬 Ask me about computer vision & front-end web design.
 - 😄 Pronouns: He/Him/His.
 
-  ## My Portfolio: https://pavankhots17.github.io/MyPortfolio.io/
+## My Portfolio: https://pavankhots17.github.io/MyPortfolio.io/
 
 ## 👀💻 CHECK MY LATEST PROJECTS : [ Click Here! ](#projects)
 
